@@ -1,7 +1,7 @@
 # Awesome Terra
 
 An awesome list about everything related to the <a href='https://terra.money'>Terra</a> platform.
-<br />
+<br /><br/>
 Terra is an open-source blockchain project whose mission is to set money free and enable the creation of new financial primitives to power the innovation of money.
 <br/>
 
