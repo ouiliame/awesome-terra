@@ -45,6 +45,7 @@ Applications with large-scale adoption, powered by Terra
 ### SDKs
 
 - [Terra.js](https://github.com/terra-project/terra.js) - JavaScript SDK for Terra
+- [Terra.py](https://terra-money.github.io/terra.py/) - Python SDK for Terra
 
 ### Smart Contracts
 
